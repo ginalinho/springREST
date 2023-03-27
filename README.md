@@ -1,1 +1,1 @@
-# springREST application developing with Udemy's Spring Course.
+# springREST application developed with Udemy's Spring Course.
